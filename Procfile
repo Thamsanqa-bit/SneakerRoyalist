@@ -1,0 +1,1 @@
+web: gunicorn snaeker.wsgi --log-file -
